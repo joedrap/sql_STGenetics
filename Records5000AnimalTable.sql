@@ -1,3 +1,5 @@
+USE STGenetics
+
 DECLARE @i INT = 0
 WHILE @i < 5000
 BEGIN

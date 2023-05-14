@@ -1,3 +1,5 @@
+USE STGenetics
+
 CREATE TABLE Animal (
     AnimalId INT PRIMARY KEY IDENTITY(1,1),
     Name VARCHAR(50) NOT NULL,

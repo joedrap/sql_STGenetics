@@ -1,3 +1,4 @@
+USE STGenetics
 -- Insert script for Animal table
 INSERT INTO Animal (Name, Breed, BirthDate, Sex, Price, Status)
 VALUES ('Name1', 'Breed1', '2000-01-01', 'Male', 1000.00, 'Active');
